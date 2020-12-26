@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\Web-I-O-Datenanalyse_Neu_Kummer\Web IO Datenanalyse_Neu_Kummer\Web IO Datenanalyse_Neu_Kummer\bin\Debug\Web IO Datenanalyse_Neu_Kummer.exe.config
+C:\Users\chris\source\repos\Web-I-O-Datenanalyse_Neu_Kummer\Web IO Datenanalyse_Neu_Kummer\Web IO Datenanalyse_Neu_Kummer\bin\Debug\Web IO Datenanalyse_Neu_Kummer.exe
+C:\Users\chris\source\repos\Web-I-O-Datenanalyse_Neu_Kummer\Web IO Datenanalyse_Neu_Kummer\Web IO Datenanalyse_Neu_Kummer\bin\Debug\Web IO Datenanalyse_Neu_Kummer.pdb
+C:\Users\chris\source\repos\Web-I-O-Datenanalyse_Neu_Kummer\Web IO Datenanalyse_Neu_Kummer\Web IO Datenanalyse_Neu_Kummer\obj\Debug\Web IO Datenanalyse_Neu_Kummer.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\Web-I-O-Datenanalyse_Neu_Kummer\Web IO Datenanalyse_Neu_Kummer\Web IO Datenanalyse_Neu_Kummer\obj\Debug\Web IO Datenanalyse_Neu_Kummer.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Web-I-O-Datenanalyse_Neu_Kummer\Web IO Datenanalyse_Neu_Kummer\Web IO Datenanalyse_Neu_Kummer\obj\Debug\Web IO Datenanalyse_Neu_Kummer.exe
+C:\Users\chris\source\repos\Web-I-O-Datenanalyse_Neu_Kummer\Web IO Datenanalyse_Neu_Kummer\Web IO Datenanalyse_Neu_Kummer\obj\Debug\Web IO Datenanalyse_Neu_Kummer.pdb
